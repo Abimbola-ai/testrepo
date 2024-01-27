@@ -1,0 +1,46 @@
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav {
+    text-align: center;
+    background-color: black;
+    color: #efeee7;
+    height: 5vh;
+    margin: 0px auto;
+    
+}
+
+h1 {
+    padding: 1rem;
+}
+.container {
+    display: flex;
+    margin: 20px 20px;
+}
+
+.bio {
+    display: inline-flex;
+}
+#left-container {
+    /* float: left !important; */
+    width: 60%;
+}
+
+#right-container {
+    /* float: right !important; */
+    width: 40%;
+}
+
+#description {
+   
+    padding: 10px;
+}
+
+a {
+    margin-left: 20px;
+}
